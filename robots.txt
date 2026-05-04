@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://danielajordaoadvocacia.com.br/sitemap.xml
